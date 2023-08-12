@@ -1,0 +1,18 @@
+.web__wrapper{
+    width: 100%;
+    /* background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(./assets/images/Creative-Web-designing.webp); */
+    background-image:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(C:\Users\inclu\csss\src\assets\images\Creative-Web-designing.webp);
+    /* background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg); */
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 0px;
+    margin-top :0%;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    padding: 4rem 0 0;
+}

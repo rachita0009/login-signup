@@ -1,0 +1,52 @@
+.web__wrapper{
+    width: 100%;
+    /* background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(./assets/images/Creative-Web-designing.webp); */
+    background-image:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(C:\Users\inclu\csss\src\assets\images\Creative-Web-designing.webp);
+    /* background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg); */
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.loginform{
+    width: 488px;
+    margin: 20px auto 10px;
+    background-color: #ffffff59;
+    border-radius: 5px;
+    padding: 19px 30px;
+    }
+    
+    .col-12 h2{
+        text-align: center;
+        /* color: aliceblue; */
+        color: whitesmoke;
+        margin-top: 20px;
+    }
+    
+    .col-12 h2:hover{
+        color: orange;
+    }
+    .form-group label{
+        color: rgb(1, 28, 28);
+        font-size: 18px;
+        font-weight: 500;
+        font-weight: bold;
+    }
+
+    .form-group .btn{
+        width: auto;
+     
+        border: none;
+        color: #fff;
+        background-color: orange;
+        text-decoration: none;
+        padding: 10px 50px;
+        border-radius: 5px;
+        margin-top :0%;
+    }
+    .container-login p{
+        font-weight: bold;
+    }
+    .container-login a{
+        font-weight:normal;
+    }

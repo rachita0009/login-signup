@@ -1,0 +1,72 @@
+.web__wrapper{
+    width: 100%;
+    /* background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(./assets/images/Creative-Web-designing.webp); */
+    background-image:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(C:\Users\inclu\csss\src\assets\images\Creative-Web-designing.webp);
+    /* background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg); */
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+/* .form-group .btn{
+    width: auto;
+    background-color: transparent;
+    border: none;
+}
+.form-group .btn a {
+    color: #fff;
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 5px;
+} */
+/* .registerform {
+    width: 500px;
+    margin: 20px auto 20px;
+    background-color: #ffffff59;
+    border-radius: 5px;
+    padding: 25px 30px;
+    
+} */
+.registerform{
+width: 488px;
+margin: 5px auto 10px;
+background-color: #ffffff59;
+border-radius: 5px;
+padding: 12px 30px;
+}
+
+.col-12 h2{
+    text-align: center;
+    /* color: aliceblue; */
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+.col-12 h2:hover{
+    color: orange;
+}
+
+.form-group label{
+    color: rgb(1, 28, 28);
+    font-size: 18px;
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.form-group .btn{
+    width: auto;
+ 
+    border: none;
+    color: #fff;
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 5px;
+    margin-top :0%;
+}
+.container-signin p{
+    font-weight: bold;
+}
+.container-signin a{
+    font-weight:normal;
+}
